@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<SharpUpdate>
+	Update appID="Staples GIS ToolBox">
+		<version>2.0.0.0</version>
+		<url>https://www.dropbox.com/sh/n6pf38toismbgwn/AAD-UGfQOL9lLNeyLbO1-rPwa?dl=0 </url>
+		<fileName>GIS ToolBox.exe</fileName>
+		<md5></md5>
+		<description>Initial Test of System</description>
+		<launchArgs></launchArgs>
+	</update>
+
+
+
+
+
+</SharpUpdate>
