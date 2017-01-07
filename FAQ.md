@@ -1,9 +1,9 @@
 # Staples GIS ToolBox FAQ
 
-New Features
-	Deployment version 
+1. New Features
+	
 
-Issues bugs resolved
+2. Issues bugs resolved
 
-FAQ
-	What is the GIS ToolBox? -- GITB is a comprehensive tool to make the TA's job just a little easier!
+3. FAQ
+
