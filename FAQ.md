@@ -1,8 +1,8 @@
 # Staples GIS ToolBox FAQ
 
 1. New Features
-
-..* developer
+  * developement
+  *Testing
 
 2. Issues bugs resolved
 
