@@ -1,11 +1,21 @@
+# Staples GIS ToolBox
 FAQ and Changelog
 
-**New Features –**
+1. **New Features –**
 
-** Deployment version =
+1. **a.** Deployment version =
+2. **b.** Test
+3. **c.** test
 
-**Fixed Bugs/Issues -**
+1. **Fixed Bugs/Issues –**
+  1. **Test**
+  2. **Test**
+  3. **test**
 
 
 
-**FAQ –**
+1. **FAQ –**
+  1. **Test**
+  2. **Test**
+  3. **Test**
+  4.
